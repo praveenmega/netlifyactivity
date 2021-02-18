@@ -97,3 +97,17 @@ body {
   font-size: 60px;
   margin-bottom: 20px;
 }
+
+.banner {
+  height: 400px;
+  max-width: 700px;
+  margin: 40px auto 40px auto;
+  background-color: #2a2a2a;
+  display: flex;
+}
+
+.center-me {
+  color: #fff;
+  font-size: 50px;
+  margin: auto;
+}
